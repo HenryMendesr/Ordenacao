@@ -1,0 +1,19 @@
+Vetor,Algoritmo,Swaps,IteracoesDeLaco,Rank_Swaps,Rank_Iteracoes
+vetor1,Comb Sort,22,138,3,2
+vetor1,Gnome Sort,78,176,4,4
+vetor1,Bucket Sort,0,84,1,1
+vetor1,Bubble (flag),78,195,4,5
+vetor1,Selection,18,209,2,6
+vetor1,Cocktail,78,160,4,3
+vetor2,Comb Sort,0,118,1,5
+vetor2,Gnome Sort,0,20,1,1
+vetor2,Bucket Sort,0,82,1,4
+vetor2,Bubble (flag),0,20,1,1
+vetor2,Selection,0,209,1,6
+vetor2,Cocktail,0,20,1,1
+vetor3,Comb Sort,18,138,2,2
+vetor3,Gnome Sort,190,400,5,5
+vetor3,Bucket Sort,0,108,1,1
+vetor3,Bubble (flag),190,400,5,5
+vetor3,Selection,19,209,3,4
+vetor3,Cocktail,171,160,4,3
